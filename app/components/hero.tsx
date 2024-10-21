@@ -1,4 +1,4 @@
-import foto from "../fonts/foto.jpeg";
+import foto from "./foto.jpeg";
 
 function Profile() {
     return (
